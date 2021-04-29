@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/hackathon-yellow/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/hackathon-yellow/static/js/main.9afef590.chunk.js",
+    "main.js.map": "/hackathon-yellow/static/js/main.9afef590.chunk.js.map",
+    "runtime-main.js": "/hackathon-yellow/static/js/runtime-main.251d4509.js",
+    "runtime-main.js.map": "/hackathon-yellow/static/js/runtime-main.251d4509.js.map",
+    "static/js/2.4986c9f9.chunk.js": "/hackathon-yellow/static/js/2.4986c9f9.chunk.js",
+    "static/js/2.4986c9f9.chunk.js.map": "/hackathon-yellow/static/js/2.4986c9f9.chunk.js.map",
+    "static/js/3.9fc9f47c.chunk.js": "/hackathon-yellow/static/js/3.9fc9f47c.chunk.js",
+    "static/js/3.9fc9f47c.chunk.js.map": "/hackathon-yellow/static/js/3.9fc9f47c.chunk.js.map",
+    "index.html": "/hackathon-yellow/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/hackathon-yellow/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.4986c9f9.chunk.js.LICENSE.txt": "/hackathon-yellow/static/js/2.4986c9f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.251d4509.js",
+    "static/js/2.4986c9f9.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.9afef590.chunk.js"
+  ]
+}
