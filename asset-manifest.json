@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/hackathon-yellow/static/css/main.4b15d4d5.chunk.css",
-    "main.js": "/hackathon-yellow/static/js/main.4969aef1.chunk.js",
-    "main.js.map": "/hackathon-yellow/static/js/main.4969aef1.chunk.js.map",
+    "main.js": "/hackathon-yellow/static/js/main.88d2704f.chunk.js",
+    "main.js.map": "/hackathon-yellow/static/js/main.88d2704f.chunk.js.map",
     "runtime-main.js": "/hackathon-yellow/static/js/runtime-main.76991df5.js",
     "runtime-main.js.map": "/hackathon-yellow/static/js/runtime-main.76991df5.js.map",
     "static/js/2.cc8f200a.chunk.js": "/hackathon-yellow/static/js/2.cc8f200a.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.76991df5.js",
     "static/js/2.cc8f200a.chunk.js",
     "static/css/main.4b15d4d5.chunk.css",
-    "static/js/main.4969aef1.chunk.js"
+    "static/js/main.88d2704f.chunk.js"
   ]
 }
