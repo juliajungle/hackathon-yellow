@@ -1,10 +1,15 @@
-[
-  {
-    "scenarioName": "name",
-    "steps": ["given the user bla", "when the user blabla", "then the user..."]
-  },
-  {
-    "scenarioName": "name",
-    "steps": ["given the user bla", "when the user blabla", "then the user..."]
-  }
-]
+{
+  "featureName": "feature1",
+  "userStory": "user story",
+
+  "scenarios": [
+    {
+      "scenarioName": "scenario name 1",
+      "scenarioSteps": ["Given ...", "When ...", "Then ..."]
+    },
+    {
+      "scenarioName": "scenario name 2",
+      "scenarioSteps": ["Given ...", "When ...", "Then ..."]
+    }
+  ]
+}
