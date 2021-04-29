@@ -4,7 +4,7 @@
 
   "scenarios": [
     {
-      "scenarioName": "Delivery link is present in navigation",
+      "scenarioName": "Scenario: Delivery link is present in navigation",
       "scenarioSteps": [
         "Given a delivery URL has been added to a venue in the CMS",
         "When the venue website is viewed",
@@ -12,7 +12,7 @@
       ]
     },
     {
-      "scenarioName": "Delivery link opens in a new tab",
+      "scenarioName": "Scenario: Delivery link opens in a new tab",
       "scenarioSteps": [
         "Given a venue has a Delivery link in the navigation",
         "When the link is selected",
@@ -21,7 +21,7 @@
       ]
     },
     {
-      "scenarioName": "Delivery link is not present if not in the CMS",
+      "scenarioName": "Scenario: Delivery link is not present if not in the CMS",
       "scenarioSteps": [
         "Given a delivery URL has NOT been added to a venue in the CMS",
         "When the venue website is viewed",
@@ -29,7 +29,7 @@
       ]
     },
     {
-      "scenarioName": "Delivery link can be toggled off by Brand",
+      "scenarioName": "Scenario: Delivery link can be toggled off by Brand",
       "scenarioSteps": [
         "Given a venue has a Delivery link in the navigation",
         "When that venue’s Brand has the delivery links toggled off",
