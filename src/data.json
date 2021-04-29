@@ -1,0 +1,10 @@
+[
+  {
+    "scenarioName": "name",
+    "steps": ["given the user bla", "when the user blabla", "then the user..."]
+  },
+  {
+    "scenarioName": "name",
+    "steps": ["given the user bla", "when the user blabla", "then the user..."]
+  }
+]
