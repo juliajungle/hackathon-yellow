@@ -5,10 +5,9 @@ function App() {
   return (
     <div className="App">
       <header className="App-header"></header>
-      <div>
+      <div className="App-container">
         <Nav />
         <Results />
-        <p>Hello world!</p>
       </div>
     </div>
   );

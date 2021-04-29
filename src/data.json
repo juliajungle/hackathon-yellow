@@ -1,15 +1,40 @@
 {
-  "featureName": "feature1",
+  "featureName": "Delivery link",
   "userStory": "user story",
 
   "scenarios": [
     {
-      "scenarioName": "scenario name 1",
-      "scenarioSteps": ["Given ...", "When ...", "Then ..."]
+      "scenarioName": "Delivery link is present in navigation",
+      "scenarioSteps": [
+        "Given a delivery URL has been added to a venue in the CMS",
+        "When the venue website is viewed",
+        "Then there is a Delivery link on the navigation"
+      ]
     },
     {
-      "scenarioName": "scenario name 2",
-      "scenarioSteps": ["Given ...", "When ...", "Then ..."]
+      "scenarioName": "Delivery link opens in a new tab",
+      "scenarioSteps": [
+        "Given a venue has a Delivery link in the navigation",
+        "When the link is selected",
+        "Then a new tab is opened",
+        "And the Delivery page is shown"
+      ]
+    },
+    {
+      "scenarioName": "Delivery link is not present if not in the CMS",
+      "scenarioSteps": [
+        "Given a delivery URL has NOT been added to a venue in the CMS",
+        "When the venue website is viewed",
+        "Then there is no Delivery link in the navigation"
+      ]
+    },
+    {
+      "scenarioName": "Delivery link can be toggled off by Brand",
+      "scenarioSteps": [
+        "Given a venue has a Delivery link in the navigation",
+        "When that venue’s Brand has the delivery links toggled off",
+        "Then there is no Delivery link in the navigation of that venue"
+      ]
     }
   ]
 }
